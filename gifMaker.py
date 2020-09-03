@@ -1,3 +1,7 @@
+# Creator: Nathan A
+# Description: Does your vocab for you
+# Creation Date: 9/26/2019
+# Update Date: 8/3/2020
 from PIL import Image
 import time
 import os
