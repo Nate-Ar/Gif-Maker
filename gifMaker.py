@@ -1,7 +1,7 @@
 # Creator: Nathan A
 # Description:  Makes gifs simple gifs
 # Creation Date: 9/26/2019
-# Update Date: 8/3/2020
+# Update Date: 9/2/2020
 from PIL import Image
 import time
 import os
