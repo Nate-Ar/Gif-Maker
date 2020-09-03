@@ -1,5 +1,5 @@
 # Creator: Nathan A
-# Description: Does your vocab for you
+# Description:  Makes gifs simple gifs
 # Creation Date: 9/26/2019
 # Update Date: 8/3/2020
 from PIL import Image
@@ -10,6 +10,7 @@ t = 0
 askfor = input("What is the file path to the forground image$ ")
 back1 = input("What is the file path to the background image$ ")
 try:
+    # lisning to jessie's girl 9/2/2020
     ximage = Image.open(askfor)
     back = Image.open(back1)
 except:
